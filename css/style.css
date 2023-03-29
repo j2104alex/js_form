@@ -1,0 +1,18 @@
+.contenedor-fondo{
+    width: 100%;
+    min-height: 100vh;
+    max-height: fit-content;
+}
+.contenedor{
+    width: 50rem;
+    max-width: 90%;
+    /*horizontal, vertical, difuminado, color*/
+    box-shadow: 15px 15px 25px rgb(78, 78, 78);
+}
+.btn{
+    width: 9rem;
+}
+
+.pie {
+    font-size: x-small;
+}
